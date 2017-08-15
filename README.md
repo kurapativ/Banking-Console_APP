@@ -1,4 +1,4 @@
-# Banking-Console_APP
+# Banking-Console_App
 About:
 A Banking Console APP with various modules helps users:
 1.	Create Account Module: 
